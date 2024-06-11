@@ -8,6 +8,10 @@ Click the button below to download the APK for Android.
 
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/uc?export=download&id=1ig65-_MsifLekrKfZrHfqmGB__MAH7vF)
 
+
+**For Ios 🍎 avialbel soon...🚀
+
+
 ## Demo Images
 
 Below are some screenshots of the CurrencyConverter app:
@@ -15,17 +19,31 @@ Below are some screenshots of the CurrencyConverter app:
 ### App Icon
 ![App Icon](./DemoImages/Appicon.png)
 
-### Currency Convert Screen
-![Currency Convert](./DemoImages/CurrancyConvert.png)
 
-### Error Check Screen
-![Error Check](./DemoImages/ErrorCheck.png)
 
 ### First Screen
 ![First Screen](./DemoImages/FirstScreen.png)
 
+
+
+### Currency Convert Screen
+![Currency Convert](./DemoImages/CurrancyConvert.png)
+
+
+
+
 ### Negative Currency Error
 ![Negative Currency](./DemoImages/NagativeCurrancy.png)
+
+
+
+
+### Error Check Screen
+![Error Check](./DemoImages/ErrorCheck.png)
+
+
+
+
 
 ## Steps for Developers
 
