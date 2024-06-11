@@ -6,7 +6,7 @@ CurrencyConverter is a React Native application that allows users to easily conv
 
 Click the button below to download the APK for Android.
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green)](./android/app/build/outputs/apk/release/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-green)](https://github.com/kashyapprajapat/CurrancyConverter/android/app/build/outputs/apk/releases/app-release.apk)
 
 ## Demo Images
 
